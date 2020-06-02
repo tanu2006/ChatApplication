@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "988172347100",
+    "firebase_url": "https://chatapp-7c114.firebaseio.com",
+    "project_id": "chatapp-7c114",
+    "storage_bucket": "chatapp-7c114.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988172347100:android:d5c0d4be55831e7b2ab619",
+        "android_client_info": {
+          "package_name": "com.tanu.demochatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988172347100-b3f6lg939ijka516qrcics2sq1hcp9v1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbQZRdUpoctw6SU90-bBOEb9eW9fZ7RHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988172347100-b3f6lg939ijka516qrcics2sq1hcp9v1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
